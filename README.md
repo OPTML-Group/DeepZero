@@ -68,12 +68,10 @@ Training details:
 ## Citation
 
 ```
-@misc{chen2023deepzero,
-      title={DeepZero: Scaling up Zeroth-Order Optimization for Deep Model Training}, 
-      author={Aochuan Chen and Yimeng Zhang and Jinghan Jia and James Diffenderfer and Jiancheng Liu and Konstantinos Parasyris and Yihua Zhang and Zheng Zhang and Bhavya Kailkhura and Sijia Liu},
-      year={2023},
-      eprint={2310.02025},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{chen2023deepzero,
+  title={DEEPZERO: SCALING UP ZEROTH-ORDER OPTIMIZATION FOR DEEP MODEL TRAINING},
+  author={Chen, Aochuan and Zhang, Yimeng and Jia, Jinghan and Diffenderfer, James and Liu, Jiancheng and Parasyris, Konstantinos and Zhang, Yihua and Zhang, Zheng and Kailkhura, Bhavya and Liu, Sijia},
+  journal={arXiv preprint arXiv:2310.02025},
+  year={2023}
 }
 ```
