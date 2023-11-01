@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.10.12
+  - pip=23.2.1
+  - cudatoolkit=11.8.0
+  - pytorch=2.0.1
+  - pytorch-cuda=11.8
+  - torchvision=0.15.2
+  - numpy=1.23.5
+  - tqdm=4.66.1
+  - tensorboard=2.10.0
