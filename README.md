@@ -43,7 +43,7 @@ Training details:
   + generate_layer_ratio.py: initialization pruning. example usage: `python experiments/generate_layer_ratio.py --network resnet20 --method zo_grasp --sparsity 0.9`
 
   + sparse_gradient_training.py: the distributed cge training. example usage: `python experiments/sparse_gradient_training.py --network resnet20 --dataset cifar10 --score layer_wise_random --sparsity 0.9 --sparsity-ckpt zo_grasp_0.9 --gpus 0,1 --lr 0.1 --master-port 29500`
-  NOTE: When multiple jobs are running, please assign different master port.
+  NOTE: When multiple jobs are running, please assign different master ports.
   
 + models:
 
