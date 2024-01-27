@@ -1,4 +1,4 @@
-# \[ICLR'24\] DeepZero
+# \[ICLR'24\] DeepZero: Scaling up Zeroth-Order Optimization for Deep Model Training
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
